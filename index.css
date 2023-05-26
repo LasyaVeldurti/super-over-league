@@ -1,0 +1,21 @@
+/* Write your code here. */
+.super-league-container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.super-league-heading {
+  font-family: roboto;
+  color: #ffffff;
+}
+.image-container {
+  display: flex;
+}
+.team-image {
+  display: inline-block;
+  height: 30vh;
+  width: 40vh;
+}
